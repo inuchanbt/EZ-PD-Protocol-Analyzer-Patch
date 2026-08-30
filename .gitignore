@@ -1,0 +1,8 @@
+# Build and patcher by-products
+*.class
+*.bak
+*.patched
+*.log
+
+# Keep the intentionally bundled third-party runtime.
+!third_party/jfreechart-1.5.6.jar
