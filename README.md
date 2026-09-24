@@ -1,5 +1,7 @@
 # EZ-PD Protocol Analyzer Utility v4.2.0 Community Patch v1.0p
 
+[English](README.md) | [日本語](README.ja.md)
+
 An unofficial, source-only patch for the Infineon EZ-PD Protocol Analyzer Utility v4.2.0 and supported CY4500-family protocol analyzers, including CY4500 and CY4500-EPR.
 
 The package does not include any Infineon executable, plug-in JAR, firmware, driver, documentation, or decompiled vendor source. It modifies a compatible local installation and creates backups before replacing files.
